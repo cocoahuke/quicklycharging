@@ -1,0 +1,2 @@
+#!/bin/sh
+cycript -p SystemUIServer `dirname $0`/fakeBattCap.cy
